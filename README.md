@@ -41,4 +41,4 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🔝 Top Contributed Repo
-[![Top Repo](https://github-contributor-stats.vercel.app/api?username=VineetS46&limit=5&theme=default&combine_all_yearly_contributions=true)](https://github.com/VineetS46)
+[![Top Repo](https://github-contributor-stats.vercel.app/api?username=VineetS46&limit=5&theme=default&combine_all_yearly_contributions=true)](https://github.com/VineetS46/InvoiceFlow)
