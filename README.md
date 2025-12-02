@@ -45,34 +45,35 @@
 <div align="center">
 
   <!-- InvoiceFlow -->
-  <a href="https://github.com/VineetS46/InvoiceFlow" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/VineetS46/VineetS46/main/assets/invoiceflow.png" width="120" alt="InvoiceFlow Icon"/>
+  <div style="width:420px; margin: 30px auto; text-align:center;">
+    <img src="https://raw.githubusercontent.com/VineetS46/VineetS46/main/assets/logo.svg" width="90" alt="InvoiceFlow Icon" style="border-radius:10px;"/>
     <h3>InvoiceFlow</h3>
-  </a>
-  <p>
-    Serverless multi-cloud invoice processing built with  
-    <strong>Azure Functions, Firebase, Node.js, and Llama-3 OCR</strong>.
-  </p>
-  <img src="https://img.shields.io/badge/Status-WIP-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+    <p style="max-width:380px; margin:auto;">
+      Serverless multi-cloud invoice processing built with 
+      <strong>Azure Functions, Firebase, Node.js, and Llama-3 OCR.</strong>
+    </p>
+    <br>
+    <img src="https://img.shields.io/badge/Status-WIP-orange?style=flat-square" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  </div>
 
-  <br><br>
 
   <!-- Vidya -->
-  <a href="https://github.com/VineetS46/Vidya" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/VineetS46/VineetS46/main/assets/vidya.png" width="120" alt="Vidya Icon"/>
+  <div style="width:420px; margin: 30px auto; text-align:center;">
+    <img src="https://raw.githubusercontent.com/VineetS46/VineetS46/main/assets/vidya.png" width="130" alt="Vidya Icon" style="border-radius:10px;"/>
     <h3>Vidya</h3>
-  </a>
-  <p>
-    Online tutoring platform deployed on  
-    <strong>AWS (EC2, VPC) + PHP + MySQL + GitHub Actions CI/CD</strong>.
-  </p>
-  <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <p style="max-width:380px; margin:auto;">
+      Online tutoring platform deployed on 
+      <strong>AWS (EC2, VPC) + PHP + MySQL + GitHub Actions CI/CD.</strong>
+    </p>
+    <br>
+    <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  </div>
 
 </div>
 
