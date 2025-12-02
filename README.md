@@ -1,16 +1,15 @@
 # 💫 About Me:
-🔭 **I’m currently working on** building scalable serverless architectures and automating cloud workflows using GitHub Actions.  
+🔭 **I’m currently working on** building small cloud-native architectures, automating deployments with GitHub Actions, and experimenting with serverless workflows.  
 <br>
-🌱 **I’m currently learning** cloud architecture fundamentals, CI/CD automation, and container basics.  
+🌱 **I’m currently learning** Kubernetes, Terraform (Infrastructure as Code), and container fundamentals to grow my cloud and DevOps skills.  
 <br>
-👯 **I’m looking to collaborate on** open-source DevOps tools, serverless infrastructure projects, or automating CI/CD pipelines.  
+👯 **I’m looking to collaborate on** open-source DevOps tools, beginner-friendly cloud projects, or automating CI/CD pipelines for real-world applications.  
 <br>
-🤝 **I’m looking for help with** best practices for cluster monitoring and implementing DevSecOps in production.  
+🤝 **I’m looking for help with** Kubernetes best practices, cluster monitoring, and setting up secure DevSecOps workflows. <br>
 <br>
-💬 **Ask me about** AWS (EC2, VPC), Azure Functions, GitHub Actions pipelines, and integrating AI models (like Llama 3) into backend logic.  
+💬 **Ask me about** AWS (EC2, VPC), Azure Functions, GitHub Actions pipelines, Linux basics, and integrating AI models (like Llama 3) into backend workflows.  
 <br>
-⚡ **Fun fact:** I built an automated invoice processor just to avoid doing manual data entry!
-
+⚡ **Fun fact:** I built an automated invoice processor just so I’d never have to do manual data entry again — and that pushed me into DevOps!
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/vineetsosa)
@@ -40,42 +39,53 @@
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🚀 Top Projects
+<h3>🚀 Top Projects</h3>
 
-<div align="center">
+<div style="border-radius:8px;border:1px solid #2f3337;padding:18px;background:transparent;max-width:940px;margin:12px 0;">
 
-  <!-- InvoiceFlow -->
-  <div style="width:420px; margin: 30px auto; text-align:center;">
-    <img src="https://raw.githubusercontent.com/VineetS46/VineetS46/main/assets/logo.svg" width="90" alt="InvoiceFlow Icon" style="border-radius:10px;"/>
-    <h3>InvoiceFlow</h3>
-    <p style="max-width:380px; margin:auto;">
-      Serverless multi-cloud invoice processing built with 
-      <strong>Azure Functions, Firebase, Node.js, and Llama-3 OCR.</strong>
-    </p>
-    <br>
-    <img src="https://img.shields.io/badge/Status-WIP-orange?style=flat-square" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  </div>
+<div style="display:flex;gap:18px;align-items:flex-start;">
+<div style="flex:0 0 96px;">
+<img src="https://raw.githubusercontent.com/VineetS46/VineetS46/main/assets/logo.svg" width="96" alt="InvoiceFlow Logo" style="display:block;border-radius:10px;"/>
+</div>
 
+<div style="flex:1;">
+<h3 style="margin:0;color:#e6eef6;">InvoiceFlow</h3>
+<p style="margin:6px 0;color:#bfc7cc;line-height:1.45;">
+Serverless multi-cloud invoice processing built with <strong style="color:#ffffff;">Azure Functions, Firebase, Node.js, and Llama-3 OCR.</strong>
+</p>
 
-  <!-- Vidya -->
-  <div style="width:420px; margin: 30px auto; text-align:center;">
-    <img src="https://raw.githubusercontent.com/VineetS46/VineetS46/main/assets/vidya.png" width="130" alt="Vidya Icon" style="border-radius:10px;"/>
-    <h3>Vidya</h3>
-    <p style="max-width:380px; margin:auto;">
-      Online tutoring platform deployed on 
-      <strong>AWS (EC2, VPC) + PHP + MySQL + GitHub Actions CI/CD.</strong>
-    </p>
-    <br>
-    <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-  </div>
+<p style="margin:0;display:flex;gap:8px;flex-wrap:wrap">
+<img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
+</div>
+</div>
+
+<hr style="border:none;border-top:1px solid #2f3337;margin:18px 0;"/>
+
+<div style="display:flex;gap:18px;align-items:flex-start;">
+<div style="flex:0 0 110px;">
+<img src="https://raw.githubusercontent.com/VineetS46/VineetS46/main/assets/vidya.png" width="110" alt="Vidya Logo" style="display:block;border-radius:8px;"/>
+</div>
+
+<div style="flex:1;">
+<h3 style="margin:0;color:#e6eef6;">Vidya</h3>
+<p style="margin:6px 0;color:#bfc7cc;line-height:1.45;">
+Online tutoring platform deployed on <strong style="color:#ffffff;">AWS (EC2, VPC) + PHP + MySQL + GitHub Actions CI/CD.</strong>
+</p>
+
+<p style="margin:0;display:flex;gap:8px;flex-wrap:wrap">
+<img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+</p>
+</div>
+</div>
 
 </div>
 
 
-
+</div>
