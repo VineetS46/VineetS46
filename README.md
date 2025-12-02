@@ -40,5 +40,41 @@
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🔝 Top Contributed Repo
-[![Top Repo](https://github-contributor-stats.vercel.app/api?username=VineetS46&limit=5&theme=default&combine_all_yearly_contributions=true)](https://github.com/VineetS46/InvoiceFlow)
+### 🚀 Top Projects
+
+<div align="center">
+
+  <!-- InvoiceFlow -->
+  <a href="https://github.com/VineetS46/InvoiceFlow" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/VineetS46/VineetS46/main/assets/invoiceflow.png" width="120" alt="InvoiceFlow Icon"/>
+    <h3>InvoiceFlow</h3>
+  </a>
+  <p>
+    Serverless multi-cloud invoice processing built with  
+    <strong>Azure Functions, Firebase, Node.js, and Llama-3 OCR</strong>.
+  </p>
+  <img src="https://img.shields.io/badge/Status-WIP-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+
+  <br><br>
+
+  <!-- Vidya -->
+  <a href="https://github.com/VineetS46/Vidya" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/VineetS46/VineetS46/main/assets/vidya.png" width="120" alt="Vidya Icon"/>
+    <h3>Vidya</h3>
+  </a>
+  <p>
+    Online tutoring platform deployed on  
+    <strong>AWS (EC2, VPC) + PHP + MySQL + GitHub Actions CI/CD</strong>.
+  </p>
+  <img src="https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
+</div>
+
+
+
