@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 **I’m currently working on** building small cloud-native architectures, automating deployments with GitHub Actions, and experimenting with serverless workflows.  
 <br>
-🌱 **I’m currently learning** Kubernetes, Terraform (Infrastructure as Code), and container fundamentals to grow my cloud and DevOps skills.  
+🌱 **I’m currently learning** Kubernetes, and container fundamentals to grow my cloud and DevOps skills.  
 <br>
 👯 **I’m looking to collaborate on** open-source DevOps tools, beginner-friendly cloud projects, or automating CI/CD pipelines for real-world applications.  
 <br>
